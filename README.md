@@ -6,3 +6,4 @@ Welcome to my journey with python em IA/ML
 # python -m pip install pandas
 # python -m pip install openpyxl
 # python -m pip install sqlalchemy
+# 
